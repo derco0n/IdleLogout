@@ -1,0 +1,42 @@
+﻿Assembly C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Release\IdleLogout.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = true
+   assemblypath = C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Release\IdleLogout.exe
+   logfile = C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Release\IdleLogout.InstallLog
+Dienst TeminateIdleUsersessions wird installiert...
+Dienst TeminateIdleUsersessions wurde installiert.
+Die EventLog-Quelle TeminateIdleUsersessions im Protokoll Application wird erstellt...
+Assembly C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Release\IdleLogout.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = true
+   assemblypath = C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Release\IdleLogout.exe
+   logfile = C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Release\IdleLogout.InstallLog
+Assembly C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Release\IdleLogout.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   assemblypath = C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Release\IdleLogout.exe
+   logfile = C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Release\IdleLogout.InstallLog
+Die EventLog-Quelle TeminateIdleUsersessions wird entfernt.
+Der Dienst TeminateIdleUsersessions wird vom System entfernt...
+Dienst TeminateIdleUsersessions wurde vom System entfernt.
+Assembly C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Release\IdleLogout.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = true
+   assemblypath = C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Release\IdleLogout.exe
+   logfile = C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Release\IdleLogout.InstallLog
+Dienst TeminateIdleUsersessions wird installiert...
+Dienst TeminateIdleUsersessions wurde installiert.
+Die EventLog-Quelle TeminateIdleUsersessions im Protokoll Application wird erstellt...
+Assembly C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Release\IdleLogout.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = true
+   assemblypath = C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Release\IdleLogout.exe
+   logfile = C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Release\IdleLogout.InstallLog
+Assembly C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Release\IdleLogout.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   assemblypath = C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Release\IdleLogout.exe
+   logfile = C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Release\IdleLogout.InstallLog
+Die EventLog-Quelle TeminateIdleUsersessions wird entfernt.
+Der Dienst TeminateIdleUsersessions wird vom System entfernt...
+Dienst TeminateIdleUsersessions wurde vom System entfernt.

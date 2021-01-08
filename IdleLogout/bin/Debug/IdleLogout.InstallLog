@@ -1,0 +1,22 @@
+﻿Assembly C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Debug\IdleLogout.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = true
+   assemblypath = C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Debug\IdleLogout.exe
+   logfile = C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Debug\IdleLogout.InstallLog
+Dienst IdleLogoutService wird installiert...
+Dienst IdleLogoutService wurde installiert.
+Die EventLog-Quelle IdleLogoutService im Protokoll Application wird erstellt...
+Assembly C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Debug\IdleLogout.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = true
+   assemblypath = C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Debug\IdleLogout.exe
+   logfile = C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Debug\IdleLogout.InstallLog
+Assembly C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Debug\IdleLogout.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   assemblypath = C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Debug\IdleLogout.exe
+   logfile = C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Debug\IdleLogout.InstallLog
+Die EventLog-Quelle IdleLogoutService wird entfernt.
+Der Dienst IdleLogoutService wird vom System entfernt...
+Dienst IdleLogoutService wurde vom System entfernt.
+Es wird versucht, den Dienst IdleLogoutService zu beenden.

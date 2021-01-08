@@ -1,0 +1,10 @@
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Debug\IdleLogout.exe.config
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Debug\IdleLogout.exe
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Debug\IdleLogout.pdb
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\obj\Debug\IdleLogout.csproj.CoreCompileInputs.cache
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\obj\Debug\IdleLogout.exe
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\obj\Debug\IdleLogout.pdb
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\obj\Debug\IdleLogout.csprojAssemblyReference.cache
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Debug\Co0nUtilZ.dll
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\bin\Debug\Co0nUtilZ.pdb
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout\obj\Debug\IdleLogout.csproj.CopyComplete

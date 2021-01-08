@@ -1,0 +1,16 @@
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout_Tester\bin\Debug\IdleLogout_Tester.exe.config
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout_Tester\bin\Debug\IdleLogout_Tester.exe
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout_Tester\bin\Debug\IdleLogout_Tester.pdb
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout_Tester\bin\Debug\IdleLogout.exe
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout_Tester\obj\Debug\IdleLogout_Tester.Form1.resources
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout_Tester\obj\Debug\IdleLogout_Tester.Properties.Resources.resources
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout_Tester\obj\Debug\IdleLogout_Tester.csproj.GenerateResource.cache
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout_Tester\obj\Debug\IdleLogout_Tester.csproj.CoreCompileInputs.cache
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout_Tester\obj\Debug\IdleLogout_Tester.csproj.CopyComplete
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout_Tester\obj\Debug\IdleLogout_Tester.exe
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout_Tester\obj\Debug\IdleLogout_Tester.pdb
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout_Tester\bin\Debug\Co0nUtilZ.dll
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout_Tester\bin\Debug\Co0nUtilZ.pdb
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout_Tester\bin\Debug\IdleLogout.pdb
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout_Tester\bin\Debug\IdleLogout.exe.config
+C:\Users\dmarx\source\repos\IdleLogout\IdleLogout_Tester\obj\Debug\IdleLogout_Tester.csprojAssemblyReference.cache
