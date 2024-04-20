@@ -36,7 +36,7 @@ namespace IdleLogout
             processInstaller.Account = ServiceAccount.LocalSystem; //Läuft im Kontext SYSTEM (hat nur lokale Rechte)                                            
             serviceInstaller.StartType = ServiceStartMode.Automatic; //Starttyp  //anpassbar
             serviceInstaller.ServiceName = MyName; //Namen ggf. anpassen
-            serviceInstaller.Description = "A service that periodically logs out disconnected, idle user-sessions. Written by D. Marx (derco0n, 2021). For documentation see: https://intranet.olplastik.de/it/wikiintern/Seiten/Administration/Automatisierte%20Jobs/Automatische%20Trennung%20inaktiver%20Benutzersitzungen.aspx";
+            serviceInstaller.Description = "A service that periodically logs out disconnected, idle user-sessions. Written by derco0n, 2021.";
             Installers.Add(serviceInstaller);
             Installers.Add(processInstaller);
         }
